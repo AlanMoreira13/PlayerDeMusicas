@@ -28,7 +28,7 @@ let musicas = [
     titulo: "Rap do Rock Lee",
     artista: "7Minutoz",
     src: "./assets/musicas/Rap do Rock Lee.mp3",
-    img: "./assets/imagens/rocklee.jpg",
+    img: "./assets/imagens/rock-lee.jpg",
   },{
     titulo: "Rap do Kakashi",
     artista: "7Minutoz",
